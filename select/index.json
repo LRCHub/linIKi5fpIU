@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "旅にでも出よっか / キタニタツヤ - Somewhere Far Away / Tatsuya Kitani",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-23T11:46:57.513461Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旅にでも出よっか",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_旅にでも出よっか_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "旅にでも出よっか / キタニタツヤ - Somewhere Far Away / Tatsuya Kitani",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_旅にでも出よっか___キタニタツヤ_-_Somewhere_Far_Away___Tatsuya_Kitani_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅にでも出よっか",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_旅にでも出よっか_キタニタツヤ.txt"
+    }
+  ]
+}
